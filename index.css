@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(27, 11, 11);
+    color: wheat;
+}
+.dicegame{
+    color: red;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+}
+h2{
+    text-align: center;
+    color: yellow;
+    font-size: 4rem;
+}
+.dice{
+    display: flex;
+    justify-content: center;
+
+}
+.dice1{
+    text-align: center;
+    padding: 30px;
+}
+
+
+
+
